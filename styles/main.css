@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
 * {
     padding: 0;
     margin: 0;
@@ -147,7 +150,7 @@ header.sticky{
     height: 400px;
 }
 
-.about {
+.about-me {
     display: grid;
     margin-left: 15%;
     margin-right: 15%;
