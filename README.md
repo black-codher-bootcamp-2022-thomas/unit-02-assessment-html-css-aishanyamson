@@ -33,6 +33,8 @@ You are free to add more content and style it anyway you want. Below is some [ex
     2. Import at least one font
 3. [Deployed to Netlify](https://docs.netlify.com/site-deploys/create-deploys/) and your [site's status badge](https://docs.netlify.com/monitor-sites/status-badges/) added to this file (`README.md`)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/163c6b8f-5f74-4fe3-b601-60279c9a4879/deploy-status)](https://app.netlify.com/sites/aishanyamson/deploys)
+
 ## How to submit
 
 You must push all the code to this repository. It's advisable to work on your code using pull requests so you can monitor your test results and only push when you're ready to submit.
